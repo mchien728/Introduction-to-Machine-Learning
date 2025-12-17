@@ -1,0 +1,13 @@
+Model: ConvNeXt-Base (fb_in1k)
+Training epochs: 10
+Best accuracy: 0.99796
+
+Training Configuration:
+- Semi-supervised learning (FixMatch)
+- Threshold: 0.93
+- Unsupervised weight: 0.65
+- Learning rate: 3e-5
+- Batch size: 8
+- Image size: 224x224
+
+Google Drive Link: https://drive.google.com/file/d/1Py9NUyvT_Ys9b6dQYWvpF9VErncOi6Wh/view?usp=sharing
